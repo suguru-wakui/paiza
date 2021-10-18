@@ -1,0 +1,4 @@
+n = gets.chomp
+n2 = gets.chomp
+n3 = gets.chomp
+puts n+"-"+n2+"-"+n3
